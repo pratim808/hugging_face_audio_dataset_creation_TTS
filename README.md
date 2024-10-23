@@ -1,4 +1,6 @@
 
+## hugging_face_audio_dataset_creation_TTS
+You can create a hugging face audio dataset with this repository
 ## Creating an English Technical Text-to-Speech Dataset
 
 This Colab notebook demonstrates how to create an English technical Text-to-Speech (TTS) dataset. The process involves downloading technical YouTube videos, extracting audio, transcribing using Whisper, and organizing the data.
@@ -85,8 +87,6 @@ This README provides a general overview of the code and steps involved. For more
 
 
 
-# hugging_face_audio_dataset_creation_TTS
-You can create a hugging face audio dataset with this repository
 
 
 ## 🔗 Links
